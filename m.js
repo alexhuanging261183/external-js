@@ -1,2 +1,5 @@
-alert('xss');
-haha
+window.onload= function(){
+  alert('xss');
+};
+
+
